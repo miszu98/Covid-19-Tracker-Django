@@ -17,7 +17,7 @@ Web app which keeps track of the number of infections, reads data from csv file 
 
 ### Main page
 <p align="left"> 
-  <img src="https://i.imgur.com/xZZRKJu.png"  width="800px">
+  <img src="https://i.imgur.com/SKlAVln.png"  width="800px">
 </p>
 
 ## Status of project: 
