@@ -246,3 +246,8 @@ pip-selfcheck.json
 
 ### VirtualEnv ###
 # Virtualenv
+
+
+# Editors
+.idea/
+.vscode/
